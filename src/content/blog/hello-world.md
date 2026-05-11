@@ -22,7 +22,6 @@ heroImage: '/myphoto.png'
 1. 完善个人主页内容
 2. 绑定域名 `yourname.asia`
 3. 部署上线
-4. 后续接入商品服务
 
 &gt; 这是一段引用文字，测试样式效果。
 
